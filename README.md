@@ -3,6 +3,9 @@
 ## Table of Contents
 
 * [About the Project](about-the-project)
+* [Usage](#usage)
+* [Algorithm](#algorithm)
+* [Reference](#reference)
 
 ## About The Project
 
