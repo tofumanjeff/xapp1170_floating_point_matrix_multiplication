@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-[About the Project](#About_the_Project)
+* [About the Project](about-the-project)
 
 ## About The Project
 
