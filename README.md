@@ -44,7 +44,7 @@ The whole application is run on the PYNQ framework.
 
   Use the exported IP from HLS (AXI4-Stream wrapped) to build the hardware design in Vivado. The block design of this project is shown below.
 
-  ![Block design of this project](./block_design.png)
+  ![Block design of this project](./block_design.PNG)
 
 * **Run the application**
 
