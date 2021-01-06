@@ -4,7 +4,7 @@ This repository is a self-learning project practicing the Xilinx application not
 
 ## Table of Contents
 
-* [About the Project](about-the-project)
+* [About the Project](#about-the-project)
 * [Usage](#usage)
 * [Algorithm](#algorithm)
 * [References](#references)
